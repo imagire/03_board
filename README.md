@@ -91,3 +91,5 @@
 
 ![プレハブを設定](images/assign_prefab.png)
 
+## WebGL 環境での実行
+- [公開URL](https://imagire.github.io/03_board/WebGL/WebGL/)
